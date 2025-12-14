@@ -6,3 +6,4 @@ check_expected ([<<'EOF']);
 (bestfit) begin
 (bestfit) end
 EOF
+pass;

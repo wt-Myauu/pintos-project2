@@ -6,3 +6,4 @@ check_expected ([<<'EOF']);
 (nextfit) begin
 (nextfit) end
 EOF
+pass;
